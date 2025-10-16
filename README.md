@@ -7,4 +7,5 @@ Các thuật toán:
 - Nhóm 2: UCS, Greedy, A*
 - Nhóm 3: Hill Climbing, Simulated Annealing, Beam Search, Genetic Algorithm
 - Nhóm 4: And-Or Search, Belief-state Search
-  tải thư thiện pygame - pip install pygame
+
+tải thư thiện pygame - pip install pygame
